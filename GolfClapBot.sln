@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfClapBot.Bot", "src\GolfClapBot.Bot\GolfClapBot.Bot.csproj", "{33F7053F-B75D-4A0E-9D8E-BC080C35BCE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfClapBot.Service", "src\GolfClapBot.Service\GolfClapBot.Service.csproj", "{F6B14C1E-F56E-405D-9F48-74E726227066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfClapBot.Domain", "src\GolfClapBot.Domain\GolfClapBot.Domain.csproj", "{1ED9F7CC-A538-44B4-BF58-8CF8AD45FAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F7053F-B75D-4A0E-9D8E-BC080C35BCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F7053F-B75D-4A0E-9D8E-BC080C35BCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F7053F-B75D-4A0E-9D8E-BC080C35BCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F7053F-B75D-4A0E-9D8E-BC080C35BCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B14C1E-F56E-405D-9F48-74E726227066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B14C1E-F56E-405D-9F48-74E726227066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B14C1E-F56E-405D-9F48-74E726227066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B14C1E-F56E-405D-9F48-74E726227066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED9F7CC-A538-44B4-BF58-8CF8AD45FAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED9F7CC-A538-44B4-BF58-8CF8AD45FAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED9F7CC-A538-44B4-BF58-8CF8AD45FAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED9F7CC-A538-44B4-BF58-8CF8AD45FAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

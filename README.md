@@ -1,2 +1,2 @@
 # GolfClapBot
-Sliver Chat Bot
+Sliver Chat Bot developed by Bapes
