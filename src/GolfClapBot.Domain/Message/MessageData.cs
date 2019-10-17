@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using GolfClapBot.Domain.Channel;
-
 namespace GolfClapBot.Domain.Message
 {
     public class MessageData
